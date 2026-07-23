@@ -1,0 +1,6 @@
+[
+  { "id": "tarjeta", "nombre": "Tarjeta de Crédito / Débito", "icono": "💳" },
+  { "id": "paypal", "nombre": "PayPal", "icono": "🅿️" },
+  { "id": "zelle", "nombre": "Zelle / Transferencia", "icono": "🏦" },
+  { "id": "efectivo", "nombre": "Efectivo contra entrega", "icono": "💵" }
+]

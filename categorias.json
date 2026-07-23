@@ -1,0 +1,7 @@
+[
+  { "id": "todas", "nombre": "Todas", "icono": "✨" },
+  { "id": "ropa", "nombre": "Ropa", "icono": "👕" },
+  { "id": "calzado", "nombre": "Calzado", "icono": "👟" },
+  { "id": "accesorios", "nombre": "Accesorios", "icono": "🎒" },
+  { "id": "deporte", "nombre": "Deporte", "icono": "🧢" }
+]
