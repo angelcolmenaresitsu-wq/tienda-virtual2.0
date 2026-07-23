@@ -18,7 +18,11 @@ Tienda virtual de commerce electrónico con diseño futurista, checkout 3D inter
 
 ```
 tienda virtual/
-├── index.html          # Aplicación principal (HTML + CSS + JS)
+├── index.html          # Página principal
+├── css/
+│   └── styles.css      # Estilos de la aplicación
+├── js/
+│   └── app.js          # Lógica de la tienda
 ├── productos.json      # Catálogo de 16 productos
 ├── categorias.json     # Categorías disponibles
 ├── metodos_pago.json   # Métodos de pago soportados
